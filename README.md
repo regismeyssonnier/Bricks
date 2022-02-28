@@ -17,6 +17,6 @@ Difficulty speed:
 
 Made with babylon.js
 
-Copy the function createScene int the playground babylon.js or in your code !!!
+Copy the function createScene in the playground babylon.js or in your code !!!
 
 https://playground.babylonjs.com/
