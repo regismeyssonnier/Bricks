@@ -1,22 +1,27 @@
 # Bricks
-game
+
+## 1. game 🎮
 
 Control the ball to break some bricks !!!!
 
-Control:
-left : q
-right: d
-space: start the game
-r    : restart the game
+## 2. Control: 🎮
+    left : q
+    right: d
+    space: start the game
+    r    : restart the game
 
-Difficulty speed:
-1(touchpad): easy
-2          : medium
-3          : hard
+    Difficulty speed:
+    1(touchpad): easy
+    2          : medium
+    3          : hard
 
 
-Made with babylon.js
+## 3. Installation 
 
-Copy the function createScene in the playground babylon.js or in your code !!!
+Made with **babylon.js**
 
-https://playground.babylonjs.com/
+Copy the ***function createScene*** in the ***playground*** **babylon.js** or in your code !!!
+
+**Playground url :** https://playground.babylonjs.com/
+
+![bricks](https://github.com/regismeyssonnier/Bricks/blob/main/bricks.jpg)
